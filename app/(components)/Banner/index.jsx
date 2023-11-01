@@ -20,10 +20,10 @@ export default function Banner() {
           Full Stack Developer
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
-          Hello, and thank you for visiting my portfolio! I'm a passionate web
-          developer with a love for creating beautifully designed and functional
-          websites. My goal is to bring your ideas to life and help you
-          establish a strong online presence.
+          Hello, and thank you for visiting my portfolio! I&apos;m a passionate
+          web developer with a love for creating beautifully designed and
+          functional websites. My goal is to bring your ideas to life and help
+          you establish a strong online presence.
         </p>
       </div>
     </div>
