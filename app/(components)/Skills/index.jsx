@@ -42,7 +42,6 @@ export default function Skills() {
         <SkillsInput title="Figma" link="https://www.figma.com/" />
         <SkillsInput title="Canva" link="https://www.canva.com/" />
 
-        <SkillsInput title="Brand & LogoDesign" link="https://dribbble.com/" />
         <SkillsInput title="Wordpress" link="https://wordpress.org/" />
         <SkillsInput title="PHP" link="" />
         <SkillsInput title="Vercel" link="https://vercel.com/" />

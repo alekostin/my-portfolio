@@ -11,7 +11,7 @@ export default function ProjectCard({ title, link, img }) {
           src={img}
           alt="Amazonclone"
         />
-        <p className="absolute hidden group-hover:inline-block bottom-0 w-full py-1 bg-blue-600 text-white text-center font-semibold duration-300">
+        <p className="absolute lg:hidden group-hover:inline-block bottom-0 w-full py-1 bg-blue-600 text-white text-center font-semibold duration-300">
           {title}
         </p>
       </div>
