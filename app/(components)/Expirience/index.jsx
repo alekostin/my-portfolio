@@ -13,8 +13,8 @@ export default function Experience() {
           icon="/chi.svg"
         />
         <ExperienceCard
-          title="Freelancer"
-          subTitle="Web Developer 2022 - present"
+          title="Freelance"
+          subTitle="2022 - present"
           icon="/freelancer.svg"
         />
       </div>

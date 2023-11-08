@@ -7,18 +7,17 @@ export default function Aboutme() {
       <Title text="About Me" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>
-          Hello, I&apos;m Alex, a dedicated web developer on a journey through
-          the ever-evolving world of web design and development. My passion for
-          creating elegant, user-friendly websites has been a driving force in
-          my career. My journey began as a front-end web developer, where I
-          honed my skills in crafting pixel-perfect, responsive layouts. I then
-          delved into the world of WordPress development, allowing me to build
-          dynamic and content-rich websites for a variety of clients. As I
-          continued to grow in my field, I discovered the exciting world of
-          Next.js, a framework that aligns perfectly with my desire to push the
-          boundaries of web development. With Next.js, I&apos;ve been able to
-          create blazing-fast, server-rendered web applications that offer a
-          superior user experience.
+          My passion for creating elegant, user-friendly websites has been a
+          driving force in my career. My journey began as a front-end web
+          developer, where I honed my skills in crafting pixel-perfect,
+          responsive layouts. I then delved into the world of WordPress
+          development, allowing me to build dynamic and content-rich websites
+          for a variety of clients. As I continued to grow in my field, I
+          discovered the exciting world of Next.js, a framework that aligns
+          perfectly with my desire to push the boundaries of web development.
+          With Next.js, I&apos;ve been able to create blazing-fast,
+          server-rendered web applications that offer a superior user
+          experience.
           {/* I believe that a great website is not just a digital
           presence but a powerful tool that can help individuals and businesses
           achieve their goals. I&apos;m dedicated to finding innovative
