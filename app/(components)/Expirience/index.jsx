@@ -1,13 +1,12 @@
 import Title from "../Title";
 import { MdWork } from "react-icons/md";
-import { SiFreelancer } from "react-icons/si";
 import ExperienceCard from "../ExpirienceCard";
 
 export default function Experience() {
   return (
     <div className="wrapper">
-      <Title text="Experiences" icon={<MdWork />} />
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
+      <Title text="Experience" icon={<MdWork />} position="right" />
+      <div className="flex flex-col md:flex-row justify-center gap-20">
         <ExperienceCard
           title="chi.Digital"
           subTitle="Web Developer 2019 - 2022"

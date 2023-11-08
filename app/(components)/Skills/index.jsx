@@ -6,7 +6,7 @@ export default function Skills() {
   return (
     <div className="wrapper">
       <Title text="Skills" icon={<GiSkills />} />
-      <div className="flex gap-4 flex-wrap">
+      <div className="flex gap-4 flex-wrap justify-center">
         <SkillsInput
           title="Javascript"
           link="https://developer.mozilla.org/en-US/docs/Web/JavaScript"

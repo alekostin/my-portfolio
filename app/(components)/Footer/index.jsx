@@ -1,5 +1,3 @@
 export default function Footer() {
-  return (
-    <p className="text-sm py-2">© 2023 Oleksandr Kostin All rights reserved.</p>
-  );
+  return <p className="text-sm py-8">© 2023 Aleksandr Kostin</p>;
 }
